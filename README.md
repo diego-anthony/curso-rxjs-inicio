@@ -1,5 +1,15 @@
 # Proyecto inicial - Curso de RXJS
 
+```
+npm install -g npm-check-updates
+```
+```
+ncu -u  --packageFile package.json
+```
+```
+npm update
+```
+
 * Lo primero que debemos de hacer después de descargar el código es ejecutar el comando:
 
 ```
